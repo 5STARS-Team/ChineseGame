@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lang_s>
+	<lang name="exit_game" value="Are you sure you want to exit?" /> 
+	<lang name="GAME_OPEN" value="open" /> 
+	<lang name="GAME_DOWNLOAD" value="download" />
+	<lang name="GAME_UPLOAD" value="update" />
+	<lang name="GAME_ALL" value="download/open" />
+    <lang name="BET_TIP" value="Please Bet" />
+	
+	<lang name="guest" value="guest" />
+	<lang name="NET_ERROR" value="NETWORK CONNECT ERROR" />
+	<lang name="wash_horse" value="seba workers" />
+	<lang name="feed_horse" value="groom workers" />
+	<lang name="small_racing_horse" value="jockey" />
+	<lang name="big_racing_horse" value="Competition Marsh" />
+	<lang name="small_moneybags" value="small-moneybags" />
+	<lang name="big_moneybags" value="big-moneybags" />
+	<lang name="magnate" value="magnate" />
+	<lang name="no_net" value="Bad Network" />
+	<lang name="tips1" value="1、click the score to bet" />
+	<lang name="tips2" value="2、click READY to ready game" />
+	<lang name="tips3" value="3、click REBET to adjust odds" />
+	<lang name="tips4" value="4、increase 10 score per minutes，maximum 500" />
+	<lang name="tips51" value="maximum 500 points" />
+	<lang name="start_tips" value="please bet to start game" />
+	<lang name="recharge_tips" value="insufficient score" />
+	<lang name="exit_title" value="Prompt information" />
+	<lang name="exit_tips" value="Are you sure you want to exit?" />
+	<lang name="recharge_not_open" value="Recharge is not open" />
+	<lang name="Waiting_racing" value="Waiting For Horse racing" />
+	<lang name="racing_wait_time" value="Horse racing countdown:" />
+	<lang name="bet_wait_time" value="Next Game countdown:" />
+	<lang name="Horse_wait_time" value="Bet countdown:" />
+	<lang name="bet_success" value="Bet Set Success" />
+	<lang name="to_exitgame" value="Press again to exit the game" />
+	<lang name="SHOW_ALL_COINS" value="Show All Bet Coins" />
+	<lang name="Bind_Account" value="Bind Account?" />
+	<lang name="Bind_Account_info" value="You should bound Account for Payment !" />
+	<lang name="_USER_HAS_BIND_" value="The account has been bound !" />
+	<lang name="coin_require" value="Coin Not Enough" />
+	<lang name="coin_require_info" value="You need to recharge!" />
+	<lang name="_USER_EXIST_" value="user existed" />
+	<lang name="_USER_NOT_EXIST_" value="user not exist" />
+	<lang name="_USER_LOCKED_" value="account has locked" />
+	<lang name="_USER_NO_CHECK_" value="not autiting" />
+	<lang name="_USER_NOCHECK_MSG_" value="Must contain 6-12 leters or numbers" />
+	<lang name="_NICKNAME_NOCHECK_MSG_" value="the format of nickname was wrong" />
+	<lang name="_PHONE_ERROR_" value="error phone" />
+	<lang name="_REG_SUCCESS_" value="register successfully!" />
+	<lang name="_REG_FAILED_" value="register failed" />
+	<lang name="_LOGIN_SUCCESS_" value="login successfully" />
+	<lang name="_MONEY_MUST_EQ_0_" value="coin number insufficient" />
+	<lang name="_UPDATE_SUCCESS_" value="update successfully" />
+	<lang name="_UPDATE_FAILED_" value="update failed" />
+	<lang name="_COIN_REDUCE_SUCCESS_" value="decrease successfully" />
+	<lang name="_COIN_REDUCE_FAILED_" value="decrease failed" />
+	<lang name="_COIN_INCREASE_SUCCESS_" value="increase successfully" />
+	<lang name="_COIN_INCREASE_FAILED_" value="increase failed" />
+	<lang name="_COIN_NOT_ENOUGH_" value="insufficient coin" />
+	<lang name="_2PASSWORD_MUST_EQUAL_" value="Enter the new password twice inconsistent!" />
+	<lang name="_PASSWORD_LENGTH_EQ_N_" value="The password need 6 letters at least!" />
+	<lang name="_PASSWORD_WRONG_" value="wrong password" />
+	<lang name="_CHECK_PASS_" value="Verified Succeeful" />
+	<lang name="_REQUEST_SUCCESS_" value="request Succeeful" />
+	<lang name="_REQUEST_FAILED_" value="request failed" />
+	<lang name="_DATA_CHECK_FAILED_" value="failed" />
+	<lang name="_BET_MUST_POST_" value="commit the information of bet" />
+	<lang name="_PAYID_MUST_EXIST_" value="Please select a payment option" />
+	<lang name="_GAMEID_MUST_EXIST_" value="Please select a game" />
+	<lang name="_SECTIONID_MUST_EXIST_" value="Please select the game zone" />
+	<lang name="_CASE_PRODUCT_FAILED_" value="request order failed,contact customer service" />
+	<lang name="_CASE_NOT_EXIST_" value="order not exist" />
+	<lang name="_PAY_RESULT_NOT_SUCCESS_" value="Charge information submitted Successfully,such as long time not to account Please contact customer service" />
+	<lang name="_PAY_SUCCESS_" value="Successful recharge" />
+	<lang name="_PAY_SUCCESS_NOT_ACCOUNT_" value="Successful recharge,As long as no arrival please contact customer service!" />
+	<lang name="_SAIN_CHECK_FAILED_" value="login on another place ,please retry!" />
+	<lang name="_PAY_MONEY_CHANGED_" value="Charge error" />
+	<lang name="_EXCHANGE_COIN_LIMIT_50_" value="At least 50 coin" />
+	<lang name="_EXCHANGE_COIN_LIMIT_" value="coin insufficient" />
+	<lang name="_EXCHANGE_NUM_LIMIT_" value="exchange chance used up" />
+	<lang name="_MUST_LOGIN_" value="require login" />
+	<lang name="_ROOMINDEX_ERROR_" value="room index error" />
+	<lang name="_RACE_HAS_START_" value="race has start, can not bet" />
+	<lang name="_RACE_NOT_START_" value="race not start" />
+	<lang name="REWORD_SUCCESS" value="receive success" />
+	<lang name="_HAS_REWORD_" value="has receive" />
+	<lang name="_CONDITION_LESS_" value="Conditions are not achieved" />
+</lang_s>

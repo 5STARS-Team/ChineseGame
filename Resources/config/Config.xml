@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+   <!--166:8080-->
+    <selected_serverid serverid="1"/>
+	<appHttps>
+		<httpURL value="http://game.usmagnum.net/index.php?m=Member&c=member" serverid="1"/>
+	</appHttps>
+    <!--在线资源更新地址 -->
+    <httpres value="http://192.168.10.166:8088/res" />
+    <!--当前运行环境["1 = release", " 0 = debug"]-->
+	<bin value="1" />
+	<!--是否启用登录-->
+    <login value="1" />
+    <!--客户端版本-->
+    <version value="1.0" />
+	<!--语言包-->
+	<lang value="zh-cn" />
+</config>
+
+
+<resources_s>
+	<resources name="" value="" />
+</resources_s>
